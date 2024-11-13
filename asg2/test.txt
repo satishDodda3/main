@@ -1,0 +1,46 @@
+Shortest Paths from vertex 0 to vertex n-1 in testSPG10.txt, |V|=n
+
+G1’s shortest path from 0 to 9:
+(0, 2, 95.789) --> 95.789
+(2, 5, 16.297) --> 112.086
+(5, 6, 3.456) --> 115.542
+(6, 9, 15.493) --> 131.035
+
+G2’s shortest path from 0 to 9:
+(0, 9, 11.811) --> 11.811
+
+G3’s shortest path from 0 to 9:
+(0, 1, 19.377) --> 19.377
+(1, 9, 10.134) --> 29.511
+
+G4’s shortest path from 0 to 9:
+(0, 2, 12.715) --> 12.715
+(2, 5, 3.195) --> 15.91
+(5, 8, 20.894) --> 36.804
+(8, 7, 2.533) --> 39.337
+(7, 9, 62.013) --> 101.35
+
+G5’s shortest path from 0 to 9:
+(0, 3, 12.341) --> 12.341
+(3, 6, 72.601) --> 84.942
+(6, 9, 24.169) --> 109.111
+
+G6’s shortest path from 0 to 49:
+*** There is no path.
+
+G7’s shortest path from 0 to 49:
+*** There is no path.
+
+G8’s shortest path from 0 to 49:
+(0, 2, 85.447) --> 85.447
+(2, 40, 64.208) --> 149.655
+(40, 46, 18.51) --> 168.165
+(46, 49, 8.416) --> 176.581
+
+G9’s shortest path from 0 to 49:
+(0, 1, 89.919) --> 89.919
+(1, 43, 81.023) --> 170.942
+(43, 49, 91.619) --> 262.561
+
+G10’s shortest path from 0 to 49:
+*** There is no path.
